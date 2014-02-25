@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="dolphin-plugins"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Version control support for Dolphin file manager"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+OBSOLETES="kdesdk-dolphin-plugins"

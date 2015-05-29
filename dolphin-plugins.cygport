@@ -7,4 +7,5 @@ CATEGORY="KDE"
 SUMMARY="Version control support for Dolphin file manager"
 DESCRIPTION="Part of the KDE developer tools suite"
 
+REQUIRES="kate4-part"
 OBSOLETES="kdesdk-dolphin-plugins"

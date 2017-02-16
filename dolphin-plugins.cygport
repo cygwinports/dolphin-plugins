@@ -1,11 +1,10 @@
-inherit kde4
+inherit kf5
 
 NAME="dolphin-plugins"
-VERSION=14.12.3
+VERSION=16.08.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="Version control support for Dolphin file manager"
 DESCRIPTION="Part of the KDE developer tools suite"
 
-REQUIRES="kate4-part"
 OBSOLETES="kdesdk-dolphin-plugins"
